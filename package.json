@@ -20,7 +20,7 @@
     "parse-torrent": "^7.0.0"
   },
   "devDependencies": {
-    "standard": "*"
+    "standard": ">=13.1.0"
   },
   "keywords": [
     "sample torrents",
